@@ -1,0 +1,14 @@
+com/questions/ReactNativeFlipper.java
+ com.questions.ReactNativeFlipper
+ com.questions.ReactNativeFlipper$1
+ com.questions.ReactNativeFlipper$2
+ com.questions.ReactNativeFlipper$2$1
+com/questions/BuildConfig.java
+ com.questions.BuildConfig
+com/questions/MainApplication.java
+ com.questions.MainApplication
+ com.questions.MainApplication$1
+com/questions/MainActivity.java
+ com.questions.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

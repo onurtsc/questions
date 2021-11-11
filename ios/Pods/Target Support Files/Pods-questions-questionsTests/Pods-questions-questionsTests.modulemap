@@ -1,0 +1,6 @@
+module Pods_questions_questionsTests {
+  umbrella header "Pods-questions-questionsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
